@@ -16,9 +16,8 @@
     <string name="overview">overview</string>
     <string name="favorite">favorite</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="unfavorited">%1s removed from favorite</string>
     <string name="favorited">%1s added to favorited</string>
-    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_undo">Undo deleted the last item?</string>
     <string name="message_ok">OK</string>
 </resources>
