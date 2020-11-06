@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movies Catalogue</string>
+    <string name="title_activity_detail_course">Detail Course</string><![CDATA[
+    - Strings used for fragments for navigation -->
+
+    ]]><!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="dateline">Dateline</string>
+    <string name="movies">Movies</string>
+    <string name="tvshow">Tv Show</string>
+    <string name="year_date">Year %s</string>
+    <string name="author">Made by Laksamana Akbar Dzulfikar</string>
+    <string name="backdrop">backdrop</string>
+    <string name="poster">poster</string>
+    <string name="overview">overview</string>
+    <string name="favorite">favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="unfavorited">%1s removed from favorite</string>
+    <string name="favorited">%1s added to favorited</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+</resources>
